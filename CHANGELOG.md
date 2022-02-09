@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/releaseband/eslint-config-typescript-react/compare/v1.0.1...v1.0.2) (2022-02-09)
+
+
+### Bug Fixes
+
+* add import/no-extraneous-dependencies for config files ([9bfb950](https://github.com/releaseband/eslint-config-typescript-react/commit/9bfb95021361d8b1629dc4451bb98aaaeba1042c))
+
 ## [1.0.1](https://github.com/releaseband/eslint-config-typescript-react/compare/v1.0.0...v1.0.1) (2022-02-09)
 
 
